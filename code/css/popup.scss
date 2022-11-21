@@ -2,7 +2,7 @@
 
 $black: #000000;
 $popup-width: 290px;
-$color-primary: #2880c7;
+$color-primary: #282C34;
 $controls-background-color: #4a94d1;
 $white: #ffffff;
 
@@ -17,6 +17,7 @@ body {
   width: $popup-width;
   padding: 0;
   font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif !important;
+  background-color: #1C1E26;
 }
 
 a,
@@ -65,6 +66,7 @@ a:visited {
 
   .song-text {
     display: inline-block;
+    color: #ffffff;
   }
 }
 
@@ -106,6 +108,7 @@ a:visited {
 .site-title {
   font-size: 18px;
   vertical-align: middle;
+  color: #ffffff;
 }
 
 .site-priority-label {
