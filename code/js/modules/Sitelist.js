@@ -92,6 +92,7 @@
       "playmoss": { name: "Playmoss", url: "http://www.playmoss.com" },
       "hearthis": { name: "HearThis.at", url: "http://www.hearthis.at" },
       "hoopla": { name: "Hoopla", url: "https://www.hoopladigital.com", alias:["hoopladigital"] },
+      "hqradio": { name: "HQ Radio", url: "http://hqradio.ru", controller: "HQRadioController.js" },
       "hulu": { name: "Hulu", url: "https://www.hulu.com" },
       "hypem": { name: "Hypemachine", url: "http://www.hypem.com" },
       "hypster": { name: "Hypster", url: "http://www.hypster.com" },
